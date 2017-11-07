@@ -6,7 +6,7 @@
 
 ## 1. 找到支付宝网页支付接入入口
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;访问[支付宝开放平台]('https://open.alipay.com/')
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;访问[支付宝开放平台](https://open.alipay.com/)
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0010.png" width = "600" height = "400" alt="网页支付入口" align=center />
 
@@ -15,17 +15,17 @@
 
     快速浏览一遍整个文档.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[产品介绍]('https://docs.open.alipay.com/270/105898/')
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[产品介绍](https://docs.open.alipay.com/270/105898/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[快速接入]('https://docs.open.alipay.com/270/105899/')
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[快速接入](https://docs.open.alipay.com/270/105899/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[支付结果异步通知]('https://docs.open.alipay.com/270/105902/')
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[支付结果异步通知](https://docs.open.alipay.com/270/105902/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SDK&Demo]('https://docs.open.alipay.com/270/106291/')
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[SDK&Demo](https://docs.open.alipay.com/270/106291/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[API列表]('https://docs.open.alipay.com/270/105900/')
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[API列表](https://docs.open.alipay.com/270/105900/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[联调问题排查]('https://docs.open.alipay.com/common/fr9vsk')
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[联调问题排查](https://docs.open.alipay.com/common/fr9vsk)
 
 
 ## 3. 了解支付宝整个流程
