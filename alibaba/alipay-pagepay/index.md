@@ -82,7 +82,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;支付宝提供了客户端程序,[生成RSA密钥](https://docs.open.alipay.com/291/105971)
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0120.png" width = "400" height = "300" alt="生成RSA密钥" align=center />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0130.png" width = "400" height = "300" alt="生成RSA密钥" align=center />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0131.png" width = "400" height = "300" alt="生成RSA密钥" align=center />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0140.png" width = "400" height = "300" alt="生成RSA密钥" align=center />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0150.png" width = "400" height = "300" alt="生成RSA密钥" align=center />
