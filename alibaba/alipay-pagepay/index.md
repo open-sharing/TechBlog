@@ -1,4 +1,4 @@
-# 阿里网页支付接入
+# 阿里支付: 网页支付接入
 
    适用于电商类网站接入支付宝支付功能
    
@@ -38,7 +38,7 @@
     5. 主动查询交易结果 (对应图中步骤 #8)
     6. 交易其他处理(退款, 关闭等) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0040.png" width = "500" height = "600" alt="支付宝网页支付流程图" align=center />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0040.png" width = "700" height = "900" alt="支付宝网页支付流程图" align=center />
 
 
 ## 4. 准备接入
@@ -81,11 +81,11 @@
     如何生成RSA密钥?  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;支付宝提供了客户端程序,[生成RSA密钥](https://docs.open.alipay.com/291/105971)
     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0120.png" width = "300" height = "200" alt="生成RSA密钥" align=center />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0130.png" width = "300" height = "200" alt="生成RSA密钥" align=center />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0120.png" width = "400" height = "300" alt="生成RSA密钥" align=center />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0130.png" width = "400" height = "300" alt="生成RSA密钥" align=center />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0140.png" width = "300" height = "200" alt="生成RSA密钥" align=center />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0150.png" width = "300" height = "200" alt="生成RSA密钥" align=center />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0140.png" width = "400" height = "300" alt="生成RSA密钥" align=center />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0150.png" width = "400" height = "300" alt="生成RSA密钥" align=center />
 
 
     特别注意 沙箱环境中的, 支付宝支付网关URL为: https://openapi.alipaydev.com/gateway.do
@@ -109,13 +109,16 @@
     
     SDK中都有详细示例, 这里不再赘述.
    
-    先写个请求发起交易:
+    先写个请求发起交易, 支付宝返回可自动提交的表单HTML内容:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0200.png" width = "600" height = "400" alt="开发接入:发起交易" align=center />
 
     温馨提示: 因为有正式环境和沙箱环境等,最好参数可配置化
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/0201.png" width = "600" height = "200" alt="开发接入:参数配置化" align=center />
 
 ### 5.3 商户交易流程图(仅供交流参考, 请勿商用, 转载注明出处)
+  
+    模拟客户给商家电商系统账户充值或(充值)购买的流程.
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/flowchart.png" width = "900" height = "1900" alt="商户交易流程图" align=center />
 
 
